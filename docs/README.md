@@ -1,4 +1,6 @@
-Ny side
+# `Ny side`
+[![pages-build-deployment](https://github.com/kvapehe/nettsidetest/actions/workflows/pages/pages-build-deployment/badge.svg?branch=nettside)](https://github.com/kvapehe/nettsidetest/actions/workflows/pages/pages-build-deployment)
+
 https://kvapehe.github.io/nettsidetest/
 
 [`https://kvapehe.github.io/nettsidetest/`](https://kvapehe.github.io/nettsidetest/)
