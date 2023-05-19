@@ -1,24 +1,18 @@
 Ny side
 https://kvapehe.github.io/nettsidetest/
 
-[`https://kvapehe.github.io/nettsidetest/`][def]
+[`https://kvapehe.github.io/nettsidetest/`](https://kvapehe.github.io/nettsidetest/)
 
 
 #### En til
 
-[[def]
-```
-https://kvapehe.gi
-thub.io/nettsidetest/
-```
-](https://kvapehe.github.io/nettsidetest/)
+[`https://kvapehe.github.io/nettsidetest/`](https://kvapehe.github.io/nettsidetest/)
 
 #### Enda en
 
 [
-````
-https://kvapehe.gi
-thub.io/nettsidetest/
+```
+https://kvapehe.github.io/nettsidetest/
 ```
 ](https://kvapehe.github.io/nettsidetest/)
 
@@ -26,7 +20,7 @@ thub.io/nettsidetest/
 #### Enda en
 
 [
-````
+```
 https://kvapehe.github.io/nettsidetest/
 ```
 ](https://kvapehe.github.io/nettsidetest/)
@@ -34,13 +28,13 @@ https://kvapehe.github.io/nettsidetest/
 
 #### Ny lenke
 [
-````
+```
 https://kvapehe.github.io/nettsidetest/
 ```
 ](https://kvapehe.github.io/nettsidetest/)
 
 ok
-```
+
 
 # Pakker
 
@@ -56,8 +50,9 @@ ok
 <li>Ruby</li>
 </ul>
 
-https://github.com/github/docs/blob/main/content/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-with-codeql.md
+[`codeql`](https://github.com/github/docs/blob/main/content/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-with-codeql.md)
 
+## `codeql`
 ---
 title: About code scanning with CodeQL
 shortTitle: Code scanning with CodeQL
